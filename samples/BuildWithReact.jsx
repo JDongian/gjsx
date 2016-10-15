@@ -6,7 +6,7 @@ var gameScores = {
   player1: 2,
   player2: 5
 };
-<DashboardUnit data-index="2">
-  <h1>Scores</h1>
-  <Scoreboard className="results" scores={gameScores} />
-</DashboardUnit>;
+//<DashboardUnit data-index="2">
+//  <h1>Scores</h1>
+//  <Scoreboard className="results" scores={gameScores} />
+//</DashboardUnit>;
